@@ -19,10 +19,9 @@ Built: R 3.3.2; ; 2017-12-13 04:48:25 UTC; windows
 RemoteType: github
 RemoteHost: https://api.github.com
 RemoteRepo: riv
-RemoteUsername: tomasgreif
+RemoteUsername: kimx2407
 RemoteRef: master
-RemoteSha: 43fcf268937e3b826a7f9dbc6be92b2f0d9a531a
 GithubRepo: riv
-GithubUsername: tomasgreif
+GithubUsername: kimx2407
 GithubRef: master
-GithubSHA1: 43fcf268937e3b826a7f9dbc6be92b2f0d9a531a
+
